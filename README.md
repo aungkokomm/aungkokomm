@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aung Ko Ko 👋</h1>
 
 <p align="center">
-  I build <b>small, fast, single-purpose Windows desktop apps</b> —
-  open-source, portable, and free of telemetry.
+  I build <b>fast, native Windows apps</b> that respect your files and your privacy.<br>
+  Open source, portable, no telemetry.
 </p>
 
 <p align="center">
@@ -40,4 +40,4 @@
   <img alt="License" src="https://img.shields.io/badge/Open%20source-MIT-444">
 </p>
 
-<p align="center"><i>Native Windows tools, crafted with care.</i></p>
+<p align="center"><i>Native Windows apps, crafted with care.</i></p>
